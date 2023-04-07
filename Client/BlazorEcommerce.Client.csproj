@@ -18,4 +18,9 @@
     <ProjectReference Include="..\Shared\BlazorEcommerce.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Include="Shared/ProductList.razor">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </EmbeddedResource>
+  </ItemGroup>
 </Project>
