@@ -405,4 +405,4 @@ ASALocalRun/
 .localhistory/
 
 # App setting
-./Server/appsettings.json
+Server/appsettings.json
